@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	    <head>
+    <head>
         <title>Used cars for sale at Source One Auto Group | Schwenksville, PA, 19473</title>
         <meta name="description" content="Browse our inventory at Source One Auto Group | Used cars, trucks, and SUVs for sale in Schwenksville." />
         <meta name="keywords" content="Source One Auto Group, Used cars for sale, Used Cars Schwenksville, Used Trucks Schwenksville, Used SUVs Schwenksville, Financing in Schwenksville, Schwenksville pre-owned, pre-owned cars for sale, used cars for sale in Schwenksville, auto financing Schwenksville" />
